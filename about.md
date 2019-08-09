@@ -10,7 +10,7 @@ bridgeaffiliation at gmail dot com
 
 -----
 
-I am currently a Ph.D student and Graduate Student Researcher at Center for Environmental Research and Technology, UC, Riverside, under the supervision of [Dr. Matthew J. Barth](https://scholar.google.com/citations?user=ENaX0PEAAAAJ&hl=en) and [Dr. Guoyuan Wu](https://scholar.google.com/citations?hl=en&user=74oaZ14AAAAJ).
+I am currently a Ph.D. student and Graduate Student Researcher at the Center for Environmental Research and Technology, UC, Riverside, under the supervision of [Dr. Matthew J. Barth](https://scholar.google.com/citations?user=ENaX0PEAAAAJ&hl=en) and [Dr. Guoyuan Wu](https://scholar.google.com/citations?hl=en&user=74oaZ14AAAAJ).
 
 -----
 
