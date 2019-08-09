@@ -40,6 +40,7 @@ B.S., Electronic and Information Engineering, June 2016
 * **Relative coursework:** signal processing and basic digital & artificial circuit, image processing, information theory, radar system
 * **Scholarships:** Second Ranking Scholarship (2014, 2013), Third Ranking Scholarship (2012)
 * **Honors:** Outstanding Graduate Scholarship of School of Electronic Engineering (2016), Outstanding Contribution Award of Student Union of School of Electronic Engineering (2014)
+
 ### Online Course
 * Algorithmic Toolbox by University of California, San Diego & Higher School of Economics on Coursera
 * Robotics: Perception by University of Pennsylvania on Coursera
